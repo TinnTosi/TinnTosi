@@ -1,8 +1,7 @@
 # Hi, I'm Hristina 👋
 
-I work with **Python, data, and cloud technologies**, with a particular interest in building solutions that have a clear practical purpose - from processing and transforming data to automating workflows and applying machine learning.
-
-What I enjoy most is taking a process or problem, breaking it down, and turning it into something structured, automated, and reusable.
+**I’m a Junior Data Analyst working with Python, SQL, Pandas, and data visualization, with additional hands-on experience in cloud automation and machine learning.**
+I enjoy turning raw data into structured analysis and useful insights, as well as building automated workflows that make data processing more efficient.
 
 ## 🛠️ Tech Stack
 
